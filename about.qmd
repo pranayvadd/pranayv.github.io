@@ -77,7 +77,4 @@ If you share my passion for machine learning, artificial intelligence, or innova
 
 Stay tuned for more insights into my work, research updates, and thoughts on the ever-evolving world of AI.  
 
-#MachineLearning #ArtificialIntelligence #RoboticSystems #DataScience #Innovation
-
-Sources
- 
+#MachineLearning #ArtificialIntelligence #RoboticSystems #DataScience #Innovation 
