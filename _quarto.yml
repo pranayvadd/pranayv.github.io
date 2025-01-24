@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hemanth's LogBook"
+  site-url: https://hemanthkr.github.io
+  navbar:
+    background: "#007399"
+    foreground: "#FFFFFF"
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/hemanthkr/
+      - icon: twitter
+        href: https://twitter.com/hemanthkr30/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hemanth-kr/
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+
+
+
