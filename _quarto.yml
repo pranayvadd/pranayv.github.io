@@ -3,19 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Hemanth's LogBook"
-  site-url: https://hemanthkr.github.io
+  title: "Pranay's Blog"
+  site-url: https://pranayvadd.github.io
   navbar:
     background: "#007399"
     foreground: "#FFFFFF"
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/hemanthkr/
-      - icon: twitter
-        href: https://twitter.com/hemanthkr30/
+        href: https://github.com/pranayvadd/
       - icon: linkedin
-        href: https://www.linkedin.com/in/hemanth-kr/
+        href: https://www.linkedin.com/in/pranay-vadd/
 format:
   html:
     theme: sandstone
