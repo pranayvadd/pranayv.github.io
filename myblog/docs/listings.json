@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/vision/05-back-propagation.html",
+      "/posts/vision/04-neural-networks-in-pytorch.html",
+      "/posts/vision/03-image-augmentations.html",
+      "/posts/vision/02-understanding-images-as-data.html",
+      "/posts/vision/01-computer-vision.html"
+    ]
+  }
+]

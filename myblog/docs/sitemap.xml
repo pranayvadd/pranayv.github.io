@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://hemanthkr.github.io/posts/vision/04-neural-networks-in-pytorch.html</loc>
+    <lastmod>2025-01-15T21:33:09.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hemanthkr.github.io/posts/vision/02-understanding-images-as-data.html</loc>
+    <lastmod>2025-01-03T20:17:08.282Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hemanthkr.github.io/about.html</loc>
+    <lastmod>2025-01-01T21:30:02.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hemanthkr.github.io/index.html</loc>
+    <lastmod>2025-01-04T21:06:28.458Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hemanthkr.github.io/posts/vision/01-computer-vision.html</loc>
+    <lastmod>2025-01-02T23:17:39.067Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hemanthkr.github.io/posts/vision/03-image-augmentations.html</loc>
+    <lastmod>2025-01-05T19:19:11.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hemanthkr.github.io/posts/vision/05-back-propagation.html</loc>
+    <lastmod>2025-01-20T13:24:57.034Z</lastmod>
+  </url>
+</urlset>
