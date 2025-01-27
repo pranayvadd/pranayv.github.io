@@ -21,7 +21,7 @@ Welcome to my blog! I’m an **Innovative Machine Learning Engineer** and **AI S
 
 ## Who Am I?  
 
-I’m a results-driven professional with a proven track record of transforming ideas into actionable solutions. My career has been a blend of academic rigor and hands-on industry experience, allowing me to develop cutting-edge AI technologies that deliver measurable business value. Whether it’s building machine learning models or designing advanced robotic systems, I thrive on pushing boundaries and exploring uncharted territories.
+I’m a results-driven professional with a proven track record of transforming ideas into actionable solutions. My career has been a blend of academic rigor and hands-on industry experience, allowing me to develop cutting-edge AI technologies that deliver measurable business value. Whether it’s building machine learning models or designing advanced robotic systems, I thrive on pushing boundaries and exploring uncharted territories. 
 
 ---
 
