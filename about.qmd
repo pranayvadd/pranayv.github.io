@@ -15,7 +15,7 @@ about:
 
 # About Me: A Journey into Machine Learning and AI Innovation  
 
-Welcome to my blog! I’m an **Innovative Machine Learning Engineer** and **AI Solutions Architect**, passionate about leveraging artificial intelligence to solve complex problems and create meaningful impact. My journey in the world of AI has been fueled by curiosity, dedication, and a constant drive to innovate. Here’s a glimpse into who I am, what I do, and the vision that keeps me moving forward.
+Welcome to my blog! I’m  an **Innovative Machine Learning Engineer** and **AI Solutions Architect**, passionate about leveraging artificial intelligence to solve complex problems and create meaningful impact. My journey in the world of AI has been fueled by curiosity, dedication, and a constant drive to innovate. Here’s a glimpse into who I am, what I do, and the vision that keeps me moving forward.
 
 ---
 
